@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
-  "fileName": "teamcistools-1.0.0.jar",
-  "downloadUrl": "https://github.com/dev-levlev/teamcistools-releases/releases/download/v1.0.0/teamcistools-1.0.0.jar",
-  "sha256": "",
-  "changelog": "Первый релиз TeamCISTools"
+  "version": "1.0.1",
+  "fileName": "teamcistools-1.0.1.jar",
+  "downloadUrl": "https://github.com/dev-levlev/teamcistools-releases/releases/download/v1.0.1/teamcistools-1.0.1.jar",
+  "sha256": "5169aa4f5c6caababf585f5bd71ff9bc9dcd03fcfce509b407e896c216a81d48",
+  "changelog": "Тест автообновления 1.0.1"
 }
