@@ -1,7 +1,7 @@
 {
-  "version": "1.0.5",
-  "fileName": "teamcistools-1.0.5.jar",
-  "downloadUrl": "https://github.com/dev-levlev/teamcistools-releases/releases/download/v1.0.5/teamcistools-1.0.5.jar",
-  "sha256": "1d318915451c38a7374d7dc77a1b51528341de0464dc1ee43a443c50e822640f",
-  "changelog": "New content + bugfix"
+  "version": "1.1.1",
+  "fileName": "teamcistools-1.1.1.jar",
+  "downloadUrl": "https://github.com/dev-levlev/teamcistools-releases/releases/download/v1.1.1/teamcistools-1.1.1.jar",
+  "sha256": "479a2b21710bdfe9cb699c58c2af79e007a63f4cc723b104d0916d401e3f5487",
+  "changelog": "test"
 }
