@@ -1,7 +1,7 @@
 {
-  "version": "1.1.1",
-  "fileName": "teamcistools-1.1.1.jar",
-  "downloadUrl": "https://github.com/dev-levlev/teamcistools-releases/releases/download/v1.1.1/teamcistools-1.1.1.jar",
-  "sha256": "479a2b21710bdfe9cb699c58c2af79e007a63f4cc723b104d0916d401e3f5487",
-  "changelog": "test"
+  "version": "1.1.2",
+  "fileName": "teamcistools-1.1.2.jar",
+  "downloadUrl": "https://github.com/dev-levlev/teamcistools-releases/releases/download/v1.1.2/teamcistools-1.1.2.jar",
+  "sha256": "760fb4bb08068748d6a163476fe71a1f21f6a5ab7efcd3545803a414e15b3fb3",
+  "changelog": "авто-дороги, авто-окна"
 }
